@@ -18,8 +18,8 @@ I have learned a lot of advanced dom manipulation through this project.
  <li>Slider component</li>
  <li>Lifecycle dom  event and a bunch of lot things</li>
 
- 
-
+ <br />
+ <br />
 and after completed this project , i am more confident for dom manupulating with javascript. 
 
 
