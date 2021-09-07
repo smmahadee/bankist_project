@@ -1,7 +1,7 @@
 # bankistProject
 
 ## Project link 
-www.my-bankist-project.netlify.com 
+https://my-bankist-project.netlify.app/
 Please feel free to go and visit the site
 
 
